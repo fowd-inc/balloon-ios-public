@@ -5,4 +5,6 @@ target 'Balloon' do
 
   pod 'Google/Analytics'
   pod 'Firebase/Messaging'
+  pod 'Fabric'
+  pod 'Crashlytics'
 end
