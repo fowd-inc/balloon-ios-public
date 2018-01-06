@@ -6,3 +6,4 @@ github "realm/realm-cocoa" ~> 2.0
 github "SVProgressHUD/SVProgressHUD" ~> 2.0
 github "RxSwiftCommunity/RxRealm"
 github "kean/Nuke" ~> 5.0
+github "adjust/ios_sdk" "v4.11.4"
