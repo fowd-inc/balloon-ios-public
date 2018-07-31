@@ -2,13 +2,12 @@
 
 ## Environment
 
-- Xcode 9.2
-- Swift 4.0
-- Deployent Target iOS 9.0
-- Carthage 0.28.0
-- Ruby 2.3.1
-- CocoaPods 1.4.0
+- Xcode 9.4.1
+- Swift 4.1
+- Deployent Target iOS 11.0
+- Carthage 0.29.0
+- CocoaPods 1.5.3
 
 ## Last updated date
 
-2018/03/17
+2018/07/31
